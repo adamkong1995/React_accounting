@@ -1,0 +1,12 @@
+#wrapper {
+    display: flex
+}
+
+#content {
+    min-height: 90vh;
+    width: calc(100% - 170px);
+    top: 10vh;
+    left: 170px;
+    position: absolute;
+    transition: all 0.3s;
+}

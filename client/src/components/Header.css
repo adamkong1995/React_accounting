@@ -1,0 +1,17 @@
+#header {
+    width: 100%;
+    height: 10vh
+}
+
+ol.breadcrumb {
+    background-color: rgb(44, 50, 55);
+    margin-top: 1rem;
+}
+
+a {
+    color: rgb(255, 255, 255);
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(255, 255, 255);
+}
